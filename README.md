@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhavyaSinghalcode
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web devoping
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on competions
 - 📫 How to reach me 7840020603 contact this
 - 😄 Pronouns: he
